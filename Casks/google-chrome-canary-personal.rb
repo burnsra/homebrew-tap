@@ -1,5 +1,5 @@
 cask 'google-chrome-canary-personal' do
-  version :latest
+  version '1.0.0'
   sha256 :no_check
 
   url 'https://storage.googleapis.com/chrome-canary/GoogleChromeCanary.dmg'
