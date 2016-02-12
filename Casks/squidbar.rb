@@ -7,6 +7,8 @@ cask 'squidbar' do
   homepage 'https://www.github.com/burnsra/SquidBar/'
   license :mit
 
+  depends_on formula: 'squid'
+
   auto_updates false
   accessibility_access false
 
