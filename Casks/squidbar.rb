@@ -1,6 +1,6 @@
 cask 'squidbar' do
-  version '1.0'
-  sha256 '66b798632f0697b4204dc5b7160785cfbbbeda0062980b0ac6a7650571bc04d4'
+  version '1.0.0'
+  sha256 'eb4caec705fa00644b63cb76c67e83119e386baf82530db46c87886c759ef90f'
 
   url "https://github.com/burnsra/SquidBar/releases/download/v#{version}/SquidBar.zip"
   name 'SquidBar'
