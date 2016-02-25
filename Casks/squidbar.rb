@@ -1,6 +1,6 @@
 cask 'squidbar' do
-  version '1.0.2'
-  sha256 'a860d0b01efe6262d0250d1000a1fa3243b0bcc3a9fc56429f3703258455e007'
+  version '1.0.3'
+  sha256 'f0041a3c20d9d963dd7b286ef1032ad184ccc502459d17e3e4526a6dec5832eb'
 
   url "https://github.com/burnsra/SquidBar/releases/download/v#{version}/SquidBar.zip"
   name 'SquidBar'
@@ -13,10 +13,6 @@ cask 'squidbar' do
   accessibility_access false
 
   app 'SquidBar.app'
-
-  postflight do
-    suppress_move_to_applications key: 'suppressMoveToApplications'
-  end
 
   uninstall quit:       'me.robertburns.osx.SquidBar',
             login_item: 'SquidBar'
