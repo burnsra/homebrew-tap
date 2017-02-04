@@ -10,5 +10,5 @@ cask 'krogerasciiscreensaver' do
   auto_updates true
   accessibility_access false
 
-  screen_saver 'KrogerAscii.saver'
+  screen_saver 'Kroger Ascii.saver'
 end

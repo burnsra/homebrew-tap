@@ -10,5 +10,5 @@ cask 'krogersecurityscreensaver' do
   auto_updates true
   accessibility_access false
 
-  screen_saver 'KrogerSecurity.saver'
+  screen_saver 'Kroger Security.saver'
 end
