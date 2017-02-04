@@ -1,6 +1,6 @@
 cask 'krogersecurityscreensaver' do
-  version '1.0.0'
-  sha256 '2831984cea7f4d84a6f3868ba4ba166755602fb7124aed4a8f43bde0c20f5edc'
+  version '1.0.1'
+  sha256 '85863644c8d679de96f66dc9d9af5e2dae494b7979eae12dd5b9214d41558e5b'
 
   url "https://www.robertburns.me/dist/KrogerSecurity.zip"
   name 'Kroger Security Screen Saver'
