@@ -1,8 +1,8 @@
 cask 'spike' do
-  version '1.0-94'
-  sha256 'a5e320b55d2505f2351f507b87affef3a85471877475fcd9dbd05870ccc4658b'
+  version '1.0-97'
+  sha256 '0e47a5b83f5592ef873742596692674b71a5d4305eefc7e323479b2607f5aa6a'
 
-  url "https://www.spikeproxy.com/updates/Spike-1.0-94.zip"
+  url "https://www.spikeproxy.com/updates/Spike-#{version}.zip"
   name 'Spike'
   homepage 'https://www.spikeproxy.com'
   license :mit
