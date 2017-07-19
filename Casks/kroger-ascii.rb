@@ -1,6 +1,6 @@
 cask 'kroger-ascii' do
-  version '1.0.4'
-  sha256 '82f90368727525daa3b3d8cbbfa2da82d53d7fe2e29cc922870172963b2ba6b7'
+  version '1.0.5'
+  sha256 'fbbcf1a99912f952e7800353c20c434e9ee6c2f68956f5a18003eac4eed9c383'
 
   url "https://www.robertburns.me/dist/KrogerAscii.zip"
   name 'Kroger Ascii Screen Saver'
