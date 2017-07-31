@@ -5,7 +5,6 @@ cask 'kroger-security' do
   url "https://www.robertburns.me/dist/KrogerSecurity.zip"
   name 'Kroger Security Screen Saver'
   homepage 'https://www.robertburns.me'
-  license :mit
 
   auto_updates true
   accessibility_access false

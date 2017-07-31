@@ -5,7 +5,6 @@ cask 'creative' do
   url "https://www.robertburns.me/dist/Creative.zip"
   name 'Creative Screen Saver'
   homepage 'https://www.robertburns.me'
-  license :mit
 
   auto_updates true
   accessibility_access false

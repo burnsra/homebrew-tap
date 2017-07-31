@@ -5,7 +5,6 @@ cask 'spike' do
   url "https://www.spikeproxy.com/updates/Spike-#{version}.zip"
   name 'Spike'
   homepage 'https://www.spikeproxy.com'
-  license :mit
 
   auto_updates true
   accessibility_access false

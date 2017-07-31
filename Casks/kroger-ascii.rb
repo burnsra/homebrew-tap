@@ -5,7 +5,6 @@ cask 'kroger-ascii' do
   url "https://www.robertburns.me/dist/KrogerAscii.zip"
   name 'Kroger Ascii Screen Saver'
   homepage 'https://www.robertburns.me'
-  license :mit
 
   auto_updates true
   accessibility_access false

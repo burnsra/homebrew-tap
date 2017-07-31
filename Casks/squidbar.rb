@@ -5,7 +5,6 @@ cask 'squidbar' do
   url "https://github.com/burnsra/SquidBar/releases/download/v#{version}/SquidBar.zip"
   name 'SquidBar'
   homepage 'https://www.github.com/burnsra/SquidBar/'
-  license :mit
 
   depends_on formula: 'squid'
 

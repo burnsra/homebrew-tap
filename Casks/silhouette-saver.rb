@@ -5,7 +5,6 @@ cask 'silhouette-saver' do
   url "https://www.robertburns.me/dist/silhouette-saver.zip"
   name 'Silhouette Screen Saver'
   homepage 'https://www.robertburns.me'
-  license :mit
 
   auto_updates true
   accessibility_access false
