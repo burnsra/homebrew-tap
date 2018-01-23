@@ -1,6 +1,6 @@
 cask 'google-cloud-platform-saver' do
-  version '1.0.0'
-  sha256 '97570f9d0d2c598718c4128b57cc7a14d5ae347c90028a5865346305aecbf682'
+  version '1.0.1'
+  sha256 '8f4c354af8b9a56a01eb5f162756c9c8e6b313e0fdd1737fc2e34fd53e6ff36a'
 
   url "https://www.robertburns.me/dist/google-cloud-platform-saver.zip"
   name 'Google Cloud Platform Screen Saver'
