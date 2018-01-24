@@ -10,7 +10,7 @@ cask 'intellij-idea-eap' do
 
   auto_updates true
 
-  app 'IntelliJ IDEA.app'
+  app 'IntelliJ IDEA 2018.1 EAP.app'
 
   uninstall_postflight do
     ENV['PATH'].split(File::PATH_SEPARATOR).map { |path| File.join(path, 'idea') }.each { |path| File.delete(path) if File.exist?(path) && File.readlines(path).grep(%r{# see com.intellij.idea.SocketLock for the server side of this interface}).any? }
