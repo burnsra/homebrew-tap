@@ -1,10 +1,10 @@
 cask 'intellij-idea-eap' do
-  version '2018.1,181.3741.2'
-  sha256 '48f22de30beecb2a9a71e4b163bf6d23ebe7d0493009e13edf02cfb43f6bcf17'
+  version '2018.1,181.3870.7'
+  sha256 '81de547bd66bc57a238649dfa6c59543cabfe23a75cc3f2bc975fceacea348b0'
 
   url "https://download.jetbrains.com/idea/ideaIU-#{version.after_comma}.dmg"
   appcast 'https://data.services.jetbrains.com/products/releases?code=IIU&latest=true&type=eap',
-          checkpoint: 'b638824d68a0e569466e43a33ee1d1f30f700e3af5c31931f9db43f9202079cc'
+          checkpoint: '5cfefe1540fac8ed73ec3023099db7b35bb8a7008493d3ad7509801a4e8f9415'
   name 'IntelliJ IDEA Ultimate'
   homepage 'https://www.jetbrains.com/idea/nextversion/'
 
