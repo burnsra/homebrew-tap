@@ -1,4 +1,4 @@
-cask 'microsoft-remote-desktop-beta' do
+cask 'microsoft-remote-desktop' do
     version '10.2.0.1117'
     sha256 '88ad360cd4f9cb161c0cf92432d2b71dbd6a28033c8aeac25f93558e4ee66254'
   
