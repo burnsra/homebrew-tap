@@ -7,7 +7,6 @@ cask 'google-cloud-platform-saver' do
   homepage 'https://www.robertburns.me'
 
   auto_updates true
-  accessibility_access false
 
   screen_saver 'Google Cloud Platform.saver'
 end

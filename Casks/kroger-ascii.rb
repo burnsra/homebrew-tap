@@ -7,7 +7,6 @@ cask 'kroger-ascii' do
   homepage 'https://www.robertburns.me'
 
   auto_updates true
-  accessibility_access false
 
   screen_saver 'Kroger Ascii.saver'
 end

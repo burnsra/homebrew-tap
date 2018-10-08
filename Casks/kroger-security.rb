@@ -7,7 +7,6 @@ cask 'kroger-security' do
   homepage 'https://www.robertburns.me'
 
   auto_updates true
-  accessibility_access false
 
   screen_saver 'Kroger Security.saver'
 end

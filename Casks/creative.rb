@@ -7,7 +7,6 @@ cask 'creative' do
   homepage 'https://www.robertburns.me'
 
   auto_updates true
-  accessibility_access false
 
   screen_saver 'Creative.saver'
 end

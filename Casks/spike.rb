@@ -7,7 +7,6 @@ cask 'spike' do
   homepage 'https://www.spikeproxy.com'
 
   auto_updates true
-  accessibility_access false
 
   app 'Spike.app'
 

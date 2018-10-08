@@ -9,7 +9,6 @@ cask 'squidbar' do
   depends_on formula: 'squid'
 
   auto_updates false
-  accessibility_access false
 
   app 'SquidBar.app'
 
