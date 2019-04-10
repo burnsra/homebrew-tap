@@ -1,6 +1,6 @@
 cask 'minibar' do
-  version '1.0-27'
-  sha256 'ae667a86aad8d469b1dfd0818a21d4ef494c32d33525634829d66a6244488ffd'
+  version '1.0-28'
+  sha256 'c8a7b536557683738dbf853056de16ef230425a70c1a826daecf5a7fd7348c3c'
 
   url "https://minibar.robertburns.dev/updates/MiniBar-#{version}.zip"
   name 'MiniBar'
