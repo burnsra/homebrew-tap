@@ -1,6 +1,6 @@
 cask 'spike' do
-  version '1.2.0-171'
-  sha256 '3f8cf12404939f9c1a44dc002b3ea1d6960e64c50036aea9dee2d45dd3b1c694'
+  version '1.2.0-185'
+  sha256 '7ee752ac95a9a01f0fbc26e3469788454abd05f1bc61d963343a8e938f78affe'
 
   url "https://www.spikeproxy.com/updates/Spike-#{version}.zip"
   name 'Spike'
