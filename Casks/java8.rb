@@ -1,4 +1,4 @@
-cask 'kroger-java8' do
+cask 'java8' do
     version '8u291,b10:0402c90aa8a19af8fa9b4e619453756f'
     sha256 '632c4fbbec39846651c65f5c93d2035567046fd60bc0e58ef431218dffa8cc15'
 
