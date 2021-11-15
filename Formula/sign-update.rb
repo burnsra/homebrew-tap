@@ -5,8 +5,6 @@ class SignUpdate < Formula
   sha256 "8a928afa342062f433ab9e86fac02bca52ae3ce8352ed0ad2e803a76c19b2d87"
   head "https://github.com/sparkle-project/Sparkle.git"
 
-  bottle :unneeded
-
   def install
     bin.install "bin/sign_update"
   end
