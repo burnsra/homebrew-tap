@@ -1,4 +1,4 @@
-class LDAP < Formula
+class UtilLdap < Formula
   desc "Utility LDAP Command"
   homepage "https://github.com/burnsra/util-ldap"
   version "0.1.1"
