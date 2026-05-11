@@ -1,17 +1,17 @@
 class UtilLdap < Formula
   desc "Utility LDAP Command"
   homepage "https://github.com/burnsra/util-ldap"
-  version "0.1.2"
+  version "0.1.3"
 
   if OS.mac?
     url "https://github.com/burnsra/util-ldap/releases/download/v#{version}/ldap-macos"
-    sha256 "aebf4761f8865bd58007e67edba2027a6b62085c6a69a176a18c587026af5d44"
+    sha256 "d127bbbaac9468ceff387bed63acce9df1df93e67620fe9fbd967f5329e92c28"
     def install
       bin.install ("ldap-macos") => "ldap"
     end
   elsif OS.linux?
     url "https://github.com/burnsra/util-ldap/releases/download/v#{version}/ldap-linux"
-    sha256 "ec24fb677ef762151107d289665c0899b2653f1ef5d0ff2df1179ad7510823af"
+    sha256 "98ed167bb18c573b1e2d267c8410fc3601c3d44ed371fe01050ac51185ed40c9"
     def install
       bin.install ("ldap-linux") => "ldap"
     end
